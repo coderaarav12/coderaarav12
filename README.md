@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Planner Website - SRMPlanner<br>👯 I’m looking to collaborate on projects from all fields<br>🤝 I’m looking for help with learning more languages & efficient coding<br>🌱 I’m currently learning Next.js & Java<br>💬 Ask me about Python or C <br>⚡ Fun fact - My Coding Journey started just 6 months back and i use ai for most of my projects
+🔭 I’m currently working on a Planner Website - SRMPlanner<br>👯 I’m looking to collaborate on projects from all fields<br>🤝 I’m looking for help with learning more languages & efficient coding<br>🌱 I’m currently learning Next.js & Java<br>💬 Ask me about Python or C <br>⚡ Fun fact - My Coding Journey started just 6 months back and i use ai for most of my projects <br>🎓 College: SRM Institute of Science and Technology Kattankulathur
 
 
 ## 🌐 Socials:
