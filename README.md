@@ -1,7 +1,11 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a Planner Website - SRMPlanner<br>👯 I’m looking to collaborate on projects from all fields<br>🤝 I’m looking for help with learning more languages & efficient coding<br>🌱 I’m currently learning Next.js & Java<br>💬 Ask me about Python or C
+🔭 I’m currently working on a Planner Website - edutechsrm<br>👯 I’m looking to collaborate on projects from all fields<br>🤝 I’m looking for help with learning more languages & efficient coding<br>🌱 I’m currently learning Next.js & Java<br>💬 Ask me about Python or C
 <br>📸 Editor with 2 -3 Years of experience in Premiere Pro And After Effects <br>🎓 College: SRM Institute of Science and Technology Kattankulathur <br>⚡ Fun fact - My Coding Journey started just 6 months back and i use ai for most of my projects 
+
+##👩‍🎓👨‍🎓 Checkout my Website :
+
+https://www.edutechsrm.tech 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaravgoel._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaravgoel12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aarav_goel_12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aaravgoel3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goelaarav290@gmail.com) 
