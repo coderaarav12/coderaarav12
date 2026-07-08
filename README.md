@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav+%F0%9F%91%8B;Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=200&color=00D2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav;Full-Stack+Developer;AI+Explorer;Video+Editor;SRMIST+%E2%80%94+KTR" alt="Typing SVG" />
 </div>
 
 <p align="center">
