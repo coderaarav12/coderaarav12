@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=200&color=00D2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav;Full-Stack+Developer;AI+Explorer;Video+Editor;SRMIST+%E2%80%94+KTR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=100&color=00D2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav;Full-Stack+Developer;AI+Explorer;Video+Editor" alt="Typing SVG" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6C5CE7&center=true&vCenter=true&width=400&lines=%F0%9F%92%9C+Thanks+for+stopping+by!;%F0%9F%93%AC+Let's+connect+%26+build;%F0%9F%9A%80+Building+the+future,+one+commit+at+a+time" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=100&color=6C5CE7&center=true&vCenter=true&width=350&lines=%F0%9F%92%9C+Thanks+for+stopping+by!;%F0%9F%93%AC+Let's+connect+%26+build;%F0%9F%9A%80+Let's+build+something+awesome" alt="Footer Typing" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=coderaarav12&label=Profile+Views&color=6c5ce7&style=for-the-badge" />
   <br><br>
