@@ -32,14 +32,28 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 **🎬 MediaHub** — [greatmedia-hub.pages.dev](https://greatmedia-hub.pages.dev)
 > Multi-source media streaming platform. Search and stream movies, TV shows, and anime using TMDB + AniList metadata with 8+ embed sources. Built with vanilla JS, Express, Cloudflare Pages, and Vercel serverless.
 
-<p align="center">
-  <a href="https://github.com/coderaarav12/edutechsrm-frontend-in">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=edutechsrm-frontend-in&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/coderaarav12/media-hub-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <b>📚 EduTechSRM</b><br>
+        <sub>Academic dashboard — SRMIST KTR</sub><br><br>
+        <a href="https://github.com/coderaarav12/edutechsrm-frontend-in">
+          <img src="https://img.shields.io/github/stars/coderaarav12/edutechsrm-frontend-in?style=for-the-badge&color=6c5ce7&label=Stars"/>
+          <img src="https://img.shields.io/github/languages/top/coderaarav12/edutechsrm-frontend-in?style=for-the-badge&color=00d2ff&label=Lang"/>
+        </a>
+      </td>
+      <td align="center" width="400">
+        <b>🎬 MediaHub</b><br>
+        <sub>Multi-source media streaming</sub><br><br>
+        <a href="https://github.com/coderaarav12/media-hub-frontend">
+          <img src="https://img.shields.io/github/stars/coderaarav12/media-hub-frontend?style=for-the-badge&color=6c5ce7&label=Stars"/>
+          <img src="https://img.shields.io/github/languages/top/coderaarav12/media-hub-frontend?style=for-the-badge&color=00d2ff&label=Lang"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
