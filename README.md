@@ -116,8 +116,17 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 
 ---
 
+<br>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6C5CE7&center=true&vCenter=true&width=400&lines=%F0%9F%92%9C+Thanks+for+stopping+by!;%F0%9F%93%AC+Let's+connect+%26+build;%F0%9F%9A%80+Building+the+future,+one+commit+at+a+time" alt="Footer Typing" />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=coderaarav12&label=Profile+Views&color=6c5ce7&style=for-the-badge" />
   <br><br>
-  <i>Thanks for visiting!</i> ⭐
+  <a href="https://instagram.com/aaravgoel._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aaravgoel12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/aarav_goel_12"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:goelaarav290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br><br>
+  <sub><i>✨ "The best way to predict the future is to create it" ✨</i></sub>
 </div>
