@@ -35,20 +35,22 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="400">
+      <td align="center" width="420">
         <b>📚 EduTechSRM</b><br>
         <sub>Academic dashboard — SRMIST KTR</sub><br><br>
         <a href="https://github.com/coderaarav12/edutechsrm-frontend-in">
-          <img src="https://img.shields.io/github/stars/coderaarav12/edutechsrm-frontend-in?style=for-the-badge&color=6c5ce7&label=Stars"/>
-          <img src="https://img.shields.io/github/languages/top/coderaarav12/edutechsrm-frontend-in?style=for-the-badge&color=00d2ff&label=Lang"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         </a>
       </td>
-      <td align="center" width="400">
+      <td align="center" width="420">
         <b>🎬 MediaHub</b><br>
         <sub>Multi-source media streaming</sub><br><br>
         <a href="https://github.com/coderaarav12/media-hub-frontend">
-          <img src="https://img.shields.io/github/stars/coderaarav12/media-hub-frontend?style=for-the-badge&color=6c5ce7&label=Stars"/>
-          <img src="https://img.shields.io/github/languages/top/coderaarav12/media-hub-frontend?style=for-the-badge&color=00d2ff&label=Lang"/>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         </a>
       </td>
     </tr>
