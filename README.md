@@ -1,17 +1,102 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav+%F0%9F%91%8B;Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-🔭 I’m currently working on a Planner Website - edutechsrm<br>👯 I’m looking to collaborate on projects from all fields<br>🤝 I’m looking for help with learning more languages & efficient coding<br>🌱 I’m currently learning Next.js & Java<br>💬 Ask me about Python or C
-<br>📸 Editor with 2 -3 Years of experience in Premiere Pro And After Effects <br>🎓 College: SRM Institute of Science and Technology Kattankulathur <br>⚡ Fun fact - My Coding Journey started just 6 months back and i use ai for most of my projects 
+<p align="center">
+  <a href="https://instagram.com/aaravgoel._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aaravgoel12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/aarav_goel_12"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://youtube.com/@aaravgoel3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:goelaarav290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-# 👩‍🎓👨‍🎓 My Website :
+---
 
-https://www.edutechsrm.in
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaravgoel._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaravgoel12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aarav_goel_12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aaravgoel3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goelaarav290@gmail.com) 
+I'm a developer with **3+ years** of experience — I build full-stack apps, edit videos, and explore AI. Currently at **SRM Institute of Science and Technology, Kattankulathur**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+- 🔭 Working on **[MediaHub](https://greatmedia-hub.pages.dev)** — multi-source media streaming platform
+- 🌱 Learning **Next.js, Java, NestJS**
+- 👯 Looking to collaborate on interesting projects
+- 💬 Ask me about **Python, Java, JavaScript, TypeScript, UI/UX**
+- 🎬 Editor with 3+ years in **Premiere Pro & After Effects**
+- ⚡ My coding journey started just 6 months ago — and I use AI for most of my projects
 
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Projects
+
+<p align="center">
+  <a href="https://github.com/coderaarav12/media-hub-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <a href="https://github.com/coderaarav12/media-hub-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-api&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/coderaarav12/edutechsrm-frontend-in">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=edutechsrm-frontend-in&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <a href="https://github.com/coderaarav12/srm-sarthi-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=srm-sarthi-web&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderaarav12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaarav12&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=coderaarav12&theme=tokyonight&hide_border=true&border_radius=12" width="72%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderaarav12&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4" width="90%" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderaarav12&label=Profile+Views&color=6c5ce7&style=for-the-badge" />
+  <br><br>
+  <b>Thanks for visiting!</b> ⭐
+</div>
