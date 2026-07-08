@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 I'm a developer building full-stack apps, exploring AI, and editing videos. Currently at **SRM Institute of Science and Technology, Kattankulathur**.
 
@@ -24,7 +24,7 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Featured Projects
 
 **📚 EduTechSRM** — [edutechsrm.in](https://www.edutechsrm.in)
 > Academic dashboard for SRMIST KTR. Tracks timetable, attendance, internal marks, CGPA, and includes an AI assistant. Built with TypeScript, integrates university data to give students real-time academic insights.
@@ -43,7 +43,7 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -66,7 +66,7 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderaarav12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
@@ -83,7 +83,7 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
 
 ---
 
-### 💭 Random Dev Quote
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
