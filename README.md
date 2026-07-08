@@ -72,21 +72,10 @@ I'm a developer building full-stack apps, exploring AI, and editing videos. Curr
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderaarav12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaarav12&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-</div>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=coderaarav12&theme=tokyonight&hide_border=true&border_radius=12" width="72%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderaarav12&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4" width="90%" />
 </div>
 
 ---
