@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav+%F0%9F%91%8B;Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aarav+%F0%9F%91%8B;Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,41 +12,38 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+### 👨‍💻 About Me
 
-I'm a developer with **3+ years** of experience — I build full-stack apps, edit videos, and explore AI. Currently at **SRM Institute of Science and Technology, Kattankulathur**.
+I'm a developer building full-stack apps, exploring AI, and editing videos. Currently at **SRM Institute of Science and Technology, Kattankulathur**.
 
-- 🔭 Working on **[MediaHub](https://greatmedia-hub.pages.dev)** — multi-source media streaming platform
+- 🔭 Built **EduTechSRM** & **MediaHub** (see below)
 - 🌱 Learning **Next.js, Java, NestJS**
-- 👯 Looking to collaborate on interesting projects
-- 💬 Ask me about **Python, Java, JavaScript, TypeScript, UI/UX**
-- 🎬 Editor with 3+ years in **Premiere Pro & After Effects**
-- ⚡ My coding journey started just 6 months ago — and I use AI for most of my projects
+- 🎬 3+ years editing on **Premiere Pro & After Effects**
+- 💬 Ask me about **Python, Java, JavaScript, TypeScript**
+- ⚡ My coding journey started 6 months ago — I use AI for most of my projects
 
 ---
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Projects
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/coderaarav12/media-hub-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/coderaarav12/media-hub-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-api&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</p>
+**📚 EduTechSRM** — [edutechsrm.in](https://www.edutechsrm.in)
+> Academic dashboard for SRMIST KTR. Tracks timetable, attendance, internal marks, CGPA, and includes an AI assistant. Built with TypeScript, integrates university data to give students real-time academic insights.
+
+**🎬 MediaHub** — [greatmedia-hub.pages.dev](https://greatmedia-hub.pages.dev)
+> Multi-source media streaming platform. Search and stream movies, TV shows, and anime using TMDB + AniList metadata with 8+ embed sources. Built with vanilla JS, Express, Cloudflare Pages, and Vercel serverless.
+
 <p align="center">
   <a href="https://github.com/coderaarav12/edutechsrm-frontend-in">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=edutechsrm-frontend-in&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
-  <a href="https://github.com/coderaarav12/srm-sarthi-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=srm-sarthi-web&theme=tokyonight&hide_border=true&border_radius=12" />
+  <a href="https://github.com/coderaarav12/media-hub-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,7 +54,6 @@ I'm a developer with **3+ years** of experience — I build full-stack apps, edi
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodemon&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -70,7 +66,7 @@ I'm a developer with **3+ years** of experience — I build full-stack apps, edi
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderaarav12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
@@ -87,7 +83,7 @@ I'm a developer with **3+ years** of experience — I build full-stack apps, edi
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
+### 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
@@ -98,5 +94,5 @@ I'm a developer with **3+ years** of experience — I build full-stack apps, edi
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coderaarav12&label=Profile+Views&color=6c5ce7&style=for-the-badge" />
   <br><br>
-  <b>Thanks for visiting!</b> ⭐
+  <i>Thanks for visiting!</i> ⭐
 </div>
