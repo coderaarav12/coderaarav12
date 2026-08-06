@@ -30,12 +30,13 @@ I'm a developer building **full-stack apps**, exploring **AI**, and **editing vi
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-
-    <div style="flex: 1 1 400px; max-width: 460px; border: 1px solid #30363d; border-radius: 14px; padding: 18px; margin: 8px;">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
       <h3>📚 EduTechSRM</h3>
       <p><sub>Academic dashboard for SRMIST KTR — timetable, attendance, marks, CGPA + AI assistant.</sub></p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=edutechsrm-frontend-in&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" width="80%" />
+      <br><br>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -47,11 +48,12 @@ I'm a developer building **full-stack apps**, exploring **AI**, and **editing vi
       <a href="https://www.edutechsrm.in">
         <img src="https://img.shields.io/badge/Live_Site-00D2FF?style=flat-square&logo=vercel&logoColor=black" />
       </a>
-    </div>
-
-    <div style="flex: 1 1 400px; max-width: 460px; border: 1px solid #30363d; border-radius: 14px; padding: 18px; margin: 8px;">
+    </td>
+    <td width="50%" align="center">
       <h3>🎬 MediaHub</h3>
       <p><sub>Multi-source media streaming — movies, TV shows & anime with 8+ embed sources.</sub></p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderaarav12&repo=media-hub-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" width="80%" />
+      <br><br>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -63,10 +65,9 @@ I'm a developer building **full-stack apps**, exploring **AI**, and **editing vi
       <a href="https://greatmedia-hub.pages.dev">
         <img src="https://img.shields.io/badge/Live_Site-00D2FF?style=flat-square&logo=vercel&logoColor=black" />
       </a>
-    </div>
-
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
