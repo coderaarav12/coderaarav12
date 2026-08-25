@@ -1,20 +1,25 @@
 <div align="center">
 
-# Aarav Goel
-
-### Full-stack developer · AI builder · Creative editor
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/banner.svg?theme=light&v=2" />
+  <img src="https://goelaarav.dpdns.org/banner.svg?v=2" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
+</picture>
 
 <p>
   <a href="https://github.com/coderaarav12">
-    <img src="https://goelaarav.dpdns.org/badge/github.svg?v=1" alt="GitHub" />
+    <img src="https://goelaarav.dpdns.org/badge/github.svg?v=2" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://goelaarav.dpdns.org">
-    <img src="https://goelaarav.dpdns.org/badge/portfolio.svg?v=1" alt="Aarav Goel portfolio" />
+    <img src="https://goelaarav.dpdns.org/badge/portfolio.svg?v=2" alt="Aarav Goel portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aaravgoel12">
-    <img src="https://goelaarav.dpdns.org/badge/linkedin.svg?v=1" alt="LinkedIn" />
+    <img src="https://goelaarav.dpdns.org/badge/linkedin.svg?v=2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:goelaarav290@gmail.com">
+    <img src="https://goelaarav.dpdns.org/badge/email.svg?v=2" alt="Email" />
   </a>
 </p>
 
@@ -82,19 +87,33 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 <div align="center">
 
 <img
-  src="https://goelaarav.dpdns.org/github/graph.svg?v=1"
-  width="98%"
-  alt="Aarav's GitHub activity graph"
+  src="https://goelaarav.dpdns.org/stats.svg?v=2"
+  alt="GitHub stats — 13 repos, 4 stars, 3 followers, 237 pushes this year"
 />
 
 <br />
 <br />
 
-<img
-  src="https://goelaarav.dpdns.org/github/calendar.svg?v=1"
-  width="98%"
-  alt="Aarav's GitHub contribution calendar"
-/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/graph.svg?theme=light&v=2" />
+  <img
+    src="https://goelaarav.dpdns.org/github/graph.svg?v=2"
+    width="98%"
+    alt="Aarav's GitHub activity graph"
+  />
+</picture>
+
+<br />
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=2" />
+  <img
+    src="https://goelaarav.dpdns.org/github/calendar.svg?v=2"
+    width="98%"
+    alt="Aarav's GitHub contribution calendar"
+  />
+</picture>
 
 </div>
 
@@ -102,9 +121,15 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 
 Have an idea worth building, or want to talk about AI, product development, or editing?
 
-- **LinkedIn:** [linkedin.com/in/aaravgoel12](https://www.linkedin.com/in/aaravgoel12)
-- **GitHub:** [github.com/coderaarav12](https://github.com/coderaarav12)
-- **Portfolio:** [goelaarav.dpdns.org](https://goelaarav.dpdns.org)
+<div align="center">
+
+<a href="mailto:goelaarav290@gmail.com"><img src="https://goelaarav.dpdns.org/badge/email.svg?v=2" alt="Email" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aaravgoel12"><img src="https://goelaarav.dpdns.org/badge/linkedin.svg?v=2" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/coderaarav12"><img src="https://goelaarav.dpdns.org/badge/github.svg?v=2" alt="GitHub" /></a>
+
+</div>
 
 <div align="center">
 
