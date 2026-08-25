@@ -5,12 +5,6 @@
   <img src="https://goelaarav.dpdns.org/github/header.svg?v=3" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
 </picture>
 
-<p>
-  <a href="https://github.com/coderaarav12">
-    <img src="https://goelaarav.dpdns.org/badge/github.svg?v=3" alt="GitHub" />
-  </a>
-</p>
-
 </div>
 
 ---
