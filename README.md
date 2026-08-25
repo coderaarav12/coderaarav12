@@ -80,7 +80,7 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=coderaarav12&theme=react-dark&hide_border=true&border_radius=10"
+  src="https://goelaarav.dpdns.org/github/graph.svg?v=1"
   width="98%"
   alt="Aarav's GitHub activity graph"
 />
@@ -89,7 +89,7 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 <br />
 
 <img
-  src="https://anoosheh.info/github-contributions-widget/github_calendar/coderaarav12"
+  src="https://goelaarav.dpdns.org/github/calendar.svg?v=1"
   width="98%"
   alt="Aarav's GitHub contribution calendar"
 />
