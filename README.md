@@ -6,13 +6,15 @@
 
 <p>
   <a href="https://github.com/coderaarav12">
-    <img src="https://img.shields.io/badge/GitHub-coderaarav12-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://goelaarav.dpdns.org/badge/github.svg?v=1" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://goelaarav.dpdns.org">
-    <img src="https://img.shields.io/badge/Portfolio-goelaarav.dpdns.org-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Aarav Goel portfolio" />
+    <img src="https://goelaarav.dpdns.org/badge/portfolio.svg?v=1" alt="Aarav Goel portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aaravgoel12">
-    <img src="https://img.shields.io/badge/LinkedIn-Aarav%20Goel-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://goelaarav.dpdns.org/badge/linkedin.svg?v=1" alt="LinkedIn" />
   </a>
 </p>
 
