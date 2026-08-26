@@ -17,7 +17,7 @@ I’m Aarav, a CSE AIML student at **SRM Institute of Science and Technology, Ka
 - Building products around **AI, education, and digital trust**
 - Comfortable with **Python, JavaScript, and TypeScript**
 - 3+ years of experience editing with **Premiere Pro and After Effects**
-- Based in **Kattankulathur, Tamil Nadu**
+- Based in **Chennai, Tamil Nadu** , Originally from: **Uttar Pradesh**
 
 ## Featured projects
 
