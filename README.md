@@ -64,13 +64,6 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 
 ## GitHub activity
 
-<div align="center">
-
-<img
-  src="https://goelaarav.dpdns.org/stats.svg?v=3"
-  alt="GitHub stats — 13 repos, 4 stars, 3 followers, 237 pushes this year"
-/>
-
 <br />
 <br />
 
@@ -86,14 +79,15 @@ A media discovery and streaming interface for movies, TV shows, and anime, backe
 <br />
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=3" />
-  <img
-    src="https://goelaarav.dpdns.org/github/calendar.svg?v=3"
-    width="98%"
-    alt="Aarav's GitHub contribution calendar"
-  />
-</picture>
+<div align="center">
+
+<img
+  src="https://goelaarav.dpdns.org/stats.svg?v=3"
+  alt="GitHub stats — 13 repos, 4 stars, 3 followers, 237 pushes this year"
+/>
+
+<br />
+<br />
 
 </div>
 
