@@ -27,7 +27,7 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 | **Languages** | **Frameworks** | **Cloud & DevOps** | **Creative & Developer Tools** |
 | :---: | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,cpp" alt="JavaScript, TypeScript, Python, C++" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,github,docker,vercel" alt="Cloudflare, GitHub, Docker, Vercel" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ae" alt="Premiere Pro, After Effects" /></a> |
+| <img src="https://goelaarav.dpdns.org/icons/js.svg" width="48" alt="JavaScript" /> <img src="https://goelaarav.dpdns.org/icons/ts.svg" width="48" alt="TypeScript" /> <img src="https://goelaarav.dpdns.org/icons/python.svg" width="48" alt="Python" /> <img src="https://goelaarav.dpdns.org/icons/cpp.svg" width="48" alt="C++" /> | <img src="https://goelaarav.dpdns.org/icons/react.svg" width="48" alt="React Native" /> | <img src="https://goelaarav.dpdns.org/icons/cloudflare.svg" width="48" alt="Cloudflare" /> <img src="https://goelaarav.dpdns.org/icons/github.svg" width="48" alt="GitHub" /> <img src="https://goelaarav.dpdns.org/icons/docker.svg" width="48" alt="Docker" /> <img src="https://goelaarav.dpdns.org/icons/vercel.svg" width="48" alt="Vercel" /> | <img src="https://goelaarav.dpdns.org/icons/pr.svg" width="48" alt="Premiere Pro" /> <img src="https://goelaarav.dpdns.org/icons/ae.svg" width="48" alt="After Effects" /> |
 
 </div>
 
