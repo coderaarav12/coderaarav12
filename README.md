@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/header.svg?theme=light&v=4" />
-  <img src="https://goelaarav.dpdns.org/github/header.svg?v=4" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/header.svg?theme=light&v=5" />
+  <img src="https://goelaarav.dpdns.org/github/header.svg?v=5" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
 </picture>
 
 </div>
@@ -25,9 +25,7 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 <div align="center">
 
-| **Languages** | **Frameworks** | **Cloud & DevOps** | **Creative & Developer Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://goelaarav.dpdns.org/icons/js.svg" width="48" alt="JavaScript" /> <img src="https://goelaarav.dpdns.org/icons/ts.svg" width="48" alt="TypeScript" /> <img src="https://goelaarav.dpdns.org/icons/python.svg" width="48" alt="Python" /> <img src="https://goelaarav.dpdns.org/icons/cpp.svg" width="48" alt="C++" /> | <img src="https://goelaarav.dpdns.org/icons/react.svg" width="48" alt="React Native" /> | <img src="https://goelaarav.dpdns.org/icons/cloudflare.svg" width="48" alt="Cloudflare" /> <img src="https://goelaarav.dpdns.org/icons/github.svg" width="48" alt="GitHub" /> <img src="https://goelaarav.dpdns.org/icons/docker.svg" width="48" alt="Docker" /> <img src="https://goelaarav.dpdns.org/icons/vercel.svg" width="48" alt="Vercel" /> | <img src="https://goelaarav.dpdns.org/icons/pr.svg" width="48" alt="Premiere Pro" /> <img src="https://goelaarav.dpdns.org/icons/ae.svg" width="48" alt="After Effects" /> |
+<img src="https://goelaarav.dpdns.org/stack" alt="Tech Stack — JavaScript, TypeScript, Python, C++, React Native, Cloudflare, GitHub, Docker, Vercel, Premiere Pro, After Effects" />
 
 </div>
 
@@ -82,22 +80,22 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=4" />
-  <img src="https://goelaarav.dpdns.org/github/calendar.svg?v=4" width="98%" alt="Aarav's GitHub contribution calendar" />
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=5" />
+  <img src="https://goelaarav.dpdns.org/github/calendar.svg?v=5" width="98%" alt="Aarav's GitHub contribution calendar" />
 </picture>
 
 <br />
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/graph.svg?theme=light&v=4" />
-  <img src="https://goelaarav.dpdns.org/github/graph.svg?v=4" width="98%" alt="Aarav's GitHub activity graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/graph.svg?theme=light&v=5" />
+  <img src="https://goelaarav.dpdns.org/github/graph.svg?v=5" width="98%" alt="Aarav's GitHub activity graph" />
 </picture>
 
 <br />
 <br />
 
-<img src="https://goelaarav.dpdns.org/stats.svg?v=4" alt="GitHub stats" />
+<img src="https://goelaarav.dpdns.org/stats.svg?v=5" alt="GitHub stats" />
 
 </div>
 
@@ -107,14 +105,15 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 ### 📬 Get In Touch
 
-Whether you want to discuss a project, collaborate on open-source, or chat about AI & tech:
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-goelaarav.dpdns.org-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goelaarav.dpdns.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aaravgoel12-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaravgoel12/)
-[![Email](https://img.shields.io/badge/Email-goelaarav290@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelaarav290@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-coderaarav12-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderaarav12)
+<a href="https://goelaarav.dpdns.org"><img src="https://goelaarav.dpdns.org/badge/portfolio.svg?v=5" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aaravgoel12/"><img src="https://goelaarav.dpdns.org/badge/linkedin.svg?v=5" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:goelaarav290@gmail.com"><img src="https://goelaarav.dpdns.org/badge/email.svg?v=5" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/coderaarav12"><img src="https://goelaarav.dpdns.org/badge/github.svg?v=5" alt="GitHub" /></a>
 
 <br />
 <br />
