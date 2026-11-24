@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/header.svg?theme=light&v=3" />
-  <img src="https://goelaarav.dpdns.org/github/header.svg?v=3" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/header.svg?theme=light&v=4" />
+  <img src="https://goelaarav.dpdns.org/github/header.svg?v=4" alt="Aarav Goel — Full-stack developer · AI builder · Creative editor" width="100%" />
 </picture>
 
 </div>
@@ -21,29 +21,13 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-#### **Languages**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" alt="JavaScript, TypeScript, Python, C++" />
-</a>
-
-#### **Frameworks**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react&perline=1" alt="React Native" />
-</a>
-
-#### **Cloud & DevOps**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cloudflare,github,docker,vercel&perline=4" alt="Cloudflare, GitHub, Docker, Vercel" />
-</a>
-
-#### **Creative & Developer Tools**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pr,ae&perline=2" alt="Premiere Pro, After Effects" />
-</a>
+| **Languages** | **Frameworks** | **Cloud & DevOps** | **Creative & Developer Tools** |
+| :---: | :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,cpp" alt="JavaScript, TypeScript, Python, C++" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,github,docker,vercel" alt="Cloudflare, GitHub, Docker, Vercel" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ae" alt="Premiere Pro, After Effects" /></a> |
 
 </div>
 
@@ -95,24 +79,26 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=3" />
-  <img src="https://goelaarav.dpdns.org/github/calendar.svg?v=3" width="100%" alt="Aarav's GitHub contribution calendar" />
-</picture>
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/graph.svg?theme=light&v=3" />
-  <img src="https://goelaarav.dpdns.org/github/graph.svg?v=3" width="100%" alt="Aarav's GitHub activity graph" />
-</picture>
-
-<br />
-<br />
-
 <div align="center">
-  <img src="https://goelaarav.dpdns.org/stats.svg?v=3" alt="GitHub stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/calendar.svg?theme=light&v=4" />
+  <img src="https://goelaarav.dpdns.org/github/calendar.svg?v=4" width="98%" alt="Aarav's GitHub contribution calendar" />
+</picture>
+
+<br />
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://goelaarav.dpdns.org/github/graph.svg?theme=light&v=4" />
+  <img src="https://goelaarav.dpdns.org/github/graph.svg?v=4" width="98%" alt="Aarav's GitHub activity graph" />
+</picture>
+
+<br />
+<br />
+
+<img src="https://goelaarav.dpdns.org/stats.svg?v=4" alt="GitHub stats" />
+
 </div>
 
 <br />
