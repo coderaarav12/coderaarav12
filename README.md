@@ -25,7 +25,7 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
 
 <div align="center">
 
-<img src="https://goelaarav.dpdns.org/stack?v=2" alt="Tech Stack — JavaScript, TypeScript, Python, C++, React Native, Cloudflare, GitHub, Docker, Vercel, Premiere Pro, After Effects" />
+<img src="https://goelaarav.dpdns.org/stack?v=3" alt="Tech Stack — JavaScript, TypeScript, Python, C++, React Native, Cloudflare, GitHub, Docker, Vercel, Premiere Pro, After Effects" />
 
 </div>
 
