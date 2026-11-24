@@ -38,17 +38,17 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
     <td width="50%" valign="top">
       <h3 align="center">🎓 <a href="https://www.edutechsrm.in">EdutechSRM</a></h3>
       <p align="center">
-        <a href="https://www.edutechsrm.in"><img src="https://img.shields.io/badge/Live_App-edutechsrm.in-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
-        <a href="https://github.com/coderaarav12/edutechsrm-frontend-in"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://www.edutechsrm.in"><img src="https://goelaarav.dpdns.org/shield?l=Live+App&v=edutechsrm.in&c=10b981" alt="Live App" /></a>
+        <a href="https://github.com/coderaarav12/edutechsrm-frontend-in"><img src="https://goelaarav.dpdns.org/shield?l=GitHub&v=Repository&c=181717" alt="Repo" /></a>
       </p>
       <p>Student-built academic dashboard for SRMIST KTR serving <b>250+ active users</b>. Integrates attendance tracking, timetables, marks, CGPA, notifications, and campus utilities into one unified, ultra-fast PWA.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎬 <a href="https://greatmedia-hub.pages.dev">GreatMedia (MediaHub)</a></h3>
       <p align="center">
-        <a href="https://greatmedia-hub.pages.dev"><img src="https://img.shields.io/badge/Live_App-greatmedia--hub-0284c7?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Live App" /></a>
-        <a href="https://github.com/coderaarav12/media-hub-frontend"><img src="https://img.shields.io/badge/Frontend-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Frontend Repo" /></a>
-        <a href="https://github.com/coderaarav12/media-hub-api"><img src="https://img.shields.io/badge/API-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="API Repo" /></a>
+        <a href="https://greatmedia-hub.pages.dev"><img src="https://goelaarav.dpdns.org/shield?l=Live+App&v=greatmedia-hub&c=0284c7" alt="Live App" /></a>
+        <a href="https://github.com/coderaarav12/media-hub-frontend"><img src="https://goelaarav.dpdns.org/shield?l=Frontend&v=Repository&c=181717" alt="Frontend Repo" /></a>
+        <a href="https://github.com/coderaarav12/media-hub-api"><img src="https://goelaarav.dpdns.org/shield?l=API&v=Repository&c=181717" alt="API Repo" /></a>
       </p>
       <p>A unified media discovery and streaming portal for movies, TV series, and anime. Features rich metadata querying via TMDB & AniList with zero-latency catalog browsing.</p>
     </td>
@@ -57,14 +57,14 @@ I am a **Computer Science & Engineering (AIML)** student at **SRM Institute of S
     <td width="50%" valign="top">
       <h3 align="center">🛡️ <a href="https://github.com/coderaarav12/Hackathon-TrustOS">TrustOS</a></h3>
       <p align="center">
-        <a href="https://github.com/coderaarav12/Hackathon-TrustOS"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://github.com/coderaarav12/Hackathon-TrustOS"><img src="https://goelaarav.dpdns.org/shield?l=GitHub&v=Repository&c=181717" alt="Repo" /></a>
       </p>
       <p>An explainable AI integrity platform for remote interviews and online examinations. Merges live browser heuristics, behavioral computer vision, and multi-agent consensus to generate transparent trust scores.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📦 <a href="https://github.com/coderaarav12/SIH2026">SyncMasters (SIH)</a></h3>
       <p align="center">
-        <a href="https://github.com/coderaarav12/SIH2026"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://github.com/coderaarav12/SIH2026"><img src="https://goelaarav.dpdns.org/shield?l=GitHub&v=Repository&c=181717" alt="Repo" /></a>
       </p>
       <p>CPSE material intelligence and procurement standardization platform for Smart India Hackathon. Utilizes local vision models and OCR pipelines to normalize fragmented industrial records.</p>
     </td>
